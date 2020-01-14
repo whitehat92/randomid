@@ -1,6 +1,5 @@
-from random import choice
 import sys
-from random import *
+import random
 import string
 
 
